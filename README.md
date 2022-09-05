@@ -1,9 +1,15 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Thiago Henrique Pereira and my nickname is "thpereira90"!
 
-- 🌱 Atualmente estou aprendendo Java
-- 🤔 Estou procurando oportunidades para desenvolver conhecimentos.
-- 📫 Mais abaixo irá encontrar meus contatos.
+My name is Thiago Henrique Pereira and my nickname is "thpereira90"!
+
+- 🎂 Age (Idade): '31'
+- 🌏 Country (País): 'Brasil' 
+- 🎏 State (Estado): 'São Paulo'
+- 🌇 city (Cidade): 'Mirassol'
+- 🎓 Academic Education (Educação): 'Go Ahead Study Goup (Alura)'
+- 🌱 I’m currently learning Java. (Atualmente estou aprendendo Java.)
+- 🤔  Looking for opportunities to develop knowledge. (Em busca de oportunidades para desenvolver conhecimento.)
+- 📫 Further down you will find my contacts. (Mais abaixo irá encontrar meus contatos.)
 
 <div align="center">
   <a href="https://github.com/thpereira90">
