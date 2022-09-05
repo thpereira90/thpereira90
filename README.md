@@ -6,7 +6,7 @@ My name is Thiago Henrique Pereira and my nickname is "thpereira90"!
 - 🌏 Country (País): 'Brasil' 
 - 🎏 State (Estado): 'São Paulo'
 - 🌇 city (Cidade): 'Mirassol'
-- 🎓 Academic Education (Educação): 'Go Ahead Study Goup (Alura)'
+- 🎓 Academic Education (Educação): 'Go Ahead Study Goup :rocket: (Alura)'
 - 🌱 I’m currently learning Java. (Atualmente estou aprendendo Java.)
 - 🤔  Looking for opportunities to develop knowledge. (Em busca de oportunidades para desenvolver conhecimento.)
 - 📫 Further down you will find my contacts. (Mais abaixo irá encontrar meus contatos.)
